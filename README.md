@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, I'm Mgbonye Jennifer Nwamaka.
+I'm a detail-oriented Data Analyst with experience in the use of Excel, SQL (PostGreSQL) and Power BI to perform data cleaning, exploratory analysis and build interactive dashboards to uncover trends and support data-driven decision making.
+
+I'm currently exploring customer and sales analytics. You can reach out to me on LinkedIn via this link https://www.linkedin.com/in/jennifer-mgbonye-a7aa04313? 
 
 <!--
 **JenniferTheAnalyst/JenniferTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
